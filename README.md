@@ -17,7 +17,7 @@ Template website salon kecantikan / facial yang siap digunakan di GitHub Pages.
 
 ## Yang perlu diganti
 Cari `BEAUTÉ` dan ganti dengan nama salon.
-Ganti nomor `6281234567890` dengan nomor WhatsApp salon.
+Ganti nomor `6285292307000` dengan nomor WhatsApp salon.
 Ganti alamat, jam buka, Instagram, TikTok, harga, layanan, dan foto sesuai salon Anda.
 
 Foto demo menggunakan Unsplash. Untuk website produksi, foto bisa diganti dengan foto salon sendiri.
